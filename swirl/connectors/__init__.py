@@ -15,6 +15,7 @@ from swirl.connectors.microsoft_graph import M365OneDrive
 from swirl.connectors.microsoft_graph import M365OutlookCalendar
 from swirl.connectors.microsoft_graph import M365SharePointSites
 from swirl.connectors.microsoft_graph import MicrosoftTeams
+from swirl.connectors.reddit import Reddit
 
 
 # uncomment the line below to enable PostgreSQL
